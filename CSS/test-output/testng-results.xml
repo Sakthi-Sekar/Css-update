@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-15T15:42:54Z" name="Default suite" finished-at="2019-10-15T15:43:15Z" duration-ms="20611">
+    <groups>
+    </groups>
+    <test started-at="2019-10-15T15:42:54Z" name="Default test" finished-at="2019-10-15T15:43:15Z" duration-ms="20611">
+      <class name="com.org.konakart.testscripts.HeroImagePage">
+        <test-method signature="setup()[pri:0, instance:com.org.konakart.testscripts.HeroImagePage@323b36e0]" started-at="2019-10-15T15:42:54Z" name="setup" finished-at="2019-10-15T15:43:10Z" duration-ms="15640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnHeroImage()[pri:1, instance:com.org.konakart.testscripts.HeroImagePage@323b36e0]" started-at="2019-10-15T15:43:10Z" name="clickOnHeroImage" finished-at="2019-10-15T15:43:14Z" duration-ms="4612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnHeroImage -->
+        <test-method signature="validatetabsOfHeroImage()[pri:2, instance:com.org.konakart.testscripts.HeroImagePage@323b36e0]" started-at="2019-10-15T15:43:14Z" name="validatetabsOfHeroImage" finished-at="2019-10-15T15:43:15Z" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetabsOfHeroImage -->
+        <test-method signature="sortByActions()[pri:3, instance:com.org.konakart.testscripts.HeroImagePage@323b36e0]" started-at="2019-10-15T15:43:15Z" name="sortByActions" finished-at="2019-10-15T15:43:15Z" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortByActions -->
+      </class> <!-- com.org.konakart.testscripts.HeroImagePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
